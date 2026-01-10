@@ -1,0 +1,6 @@
+metric,baseline_median,controlled_median,delta_controlled_minus_baseline,notes
+accuracy,5.0,5.0,0.0,
+clarity,5.0,5.0,0.0,
+usefulness,5.0,5.0,0.0,
+voice_fit,5.0,5.0,0.0,
+leakage_risk,1.0,1.0,0.0,Lower is better
