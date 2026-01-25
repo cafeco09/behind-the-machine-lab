@@ -1,0 +1,18 @@
+run:
+  run_id: auto
+  prompts_path: prompts/prompt_suite_v0.jsonl
+  styles_path: conditions/refusal_styles.yaml
+  output_dir: runs
+  sample_n: null   # set to an int for quick pilots (e.g., 20)
+
+llm:
+  provider: mock        # mock | openai_compat
+  model: ${LLM_MODEL:mock-model}
+  temperature: ${LLM_TEMPERATURE:0.2}
+  max_tokens: ${LLM_MAX_TOKENS:600}
+  seed: 42
+
+openai_compat:
+  base_url: ${LLM_BASE_URL:http://localhost:8000/v1}
+  api_key: ${LLM_API_KEY:anything}
+  timeout_s: 90

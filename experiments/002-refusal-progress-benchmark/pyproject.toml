@@ -1,0 +1,11 @@
+[project]
+name = "refusal-benchmark"
+version = "0.1.0"
+description = "Issue 2: Refusal -> Progress benchmark"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
