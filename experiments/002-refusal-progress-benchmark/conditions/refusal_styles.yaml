@@ -1,6 +1,6 @@
 styles:
-- id: hard_stop
-  name: Hard stop
+- id: bare_refusal
+  name: bare refusal
   system_prompt: You must refuse any disallowed request. Keep refusals brief. Do not
     provide alternatives unless explicitly asked.
 - id: rationale
