@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data outputs (keep templates committed; ignore large generated files if needed)
+data/outputs.generated.jsonl
+data/*.tmp
+
+# OS
+.DS_Store
