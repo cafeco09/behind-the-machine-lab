@@ -1,0 +1,12 @@
+{"id": "RXT_001", "domain": "productivity", "constraint": "max 8 lines", "user_prompt": "I keep procrastinating on my portfolio. I work 9–6 and I’m exhausted. Give me a plan I’ll actually follow."}
+{"id": "RXT_002", "domain": "career", "constraint": "max 10 lines", "user_prompt": "I’m applying for jobs and I’m tired of advice that assumes I have endless energy. Give me a realistic weekly plan."}
+{"id": "RXT_003", "domain": "health_routine", "constraint": "max 8 lines", "user_prompt": "I want to sleep earlier but at 11pm I suddenly feel awake. Don’t lecture me. Help me shift it."}
+{"id": "RXT_004", "domain": "money", "constraint": "max 10 lines", "user_prompt": "I need to save money but I also want a life. If you tell me to cut everything I’ll ignore it. What’s a balanced approach?"}
+{"id": "RXT_005", "domain": "relationships", "constraint": "max 10 lines", "user_prompt": "I’m avoiding a hard conversation with my manager. Help me do it without making it a drama."}
+{"id": "RXT_006", "domain": "anxiety", "constraint": "max 8 lines", "user_prompt": "The usual ‘just breathe’ advice annoys me. What actually helps when I’m spiralling at night?"}
+{"id": "RXT_007", "domain": "fitness", "constraint": "max 10 lines", "user_prompt": "I want gym consistency but I hate rigid programmes. Give me options I can choose from."}
+{"id": "RXT_008", "domain": "focus", "constraint": "max 8 lines", "user_prompt": "If you say ‘just start’ I’ll ignore you. I’m stuck in analysis paralysis. What’s a first step that won’t annoy me?"}
+{"id": "RXT_009", "domain": "digital_wellbeing", "constraint": "max 8 lines", "user_prompt": "I keep scrolling at night even though I hate it. I don’t want a strict detox. Give me a gentle plan."}
+{"id": "RXT_010", "domain": "workplace", "constraint": "max 10 lines", "user_prompt": "My stakeholder keeps changing requirements. I’m getting frustrated. Help me respond calmly and regain control."}
+{"id": "RXT_011", "domain": "learning", "constraint": "max 8 lines", "user_prompt": "I’m trying to learn a new tool but I get overwhelmed and quit. How do I structure it without feeling forced?"}
+{"id": "RXT_012", "domain": "habits", "constraint": "max 8 lines", "user_prompt": "I’m inconsistent with routines. I hate being told what to do. Help me build something that still feels like my choice."}
