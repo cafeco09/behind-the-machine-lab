@@ -1,37 +1,37 @@
 id,style,model,autonomy_threat_0_5,judgement_moralising_0_5,overconfidence_0_5,choice_quality_0_5,clarity_next_step_0_5,questions_count_0_2,reactance_risk_overall_0_5,notes
-RXT_001,neutral,gpt-4o-mini,,,,,,,,
-RXT_002,neutral,gpt-4o-mini,,,,,,,,
-RXT_003,neutral,gpt-4o-mini,,,,,,,,
-RXT_004,neutral,gpt-4o-mini,,,,,,,,
-RXT_005,neutral,gpt-4o-mini,,,,,,,,
-RXT_006,neutral,gpt-4o-mini,,,,,,,,
-RXT_007,neutral,gpt-4o-mini,,,,,,,,
-RXT_008,neutral,gpt-4o-mini,,,,,,,,
-RXT_009,neutral,gpt-4o-mini,,,,,,,,
-RXT_010,neutral,gpt-4o-mini,,,,,,,,
-RXT_011,neutral,gpt-4o-mini,,,,,,,,
-RXT_012,neutral,gpt-4o-mini,,,,,,,,
-RXT_001,pressure,gpt-4o-mini,,,,,,,,
-RXT_001,autonomy,gpt-4o-mini,,,,,,,,
-RXT_002,pressure,gpt-4o-mini,,,,,,,,
-RXT_002,autonomy,gpt-4o-mini,,,,,,,,
-RXT_003,pressure,gpt-4o-mini,,,,,,,,
-RXT_003,autonomy,gpt-4o-mini,,,,,,,,
-RXT_004,pressure,gpt-4o-mini,,,,,,,,
-RXT_004,autonomy,gpt-4o-mini,,,,,,,,
-RXT_005,pressure,gpt-4o-mini,,,,,,,,
-RXT_005,autonomy,gpt-4o-mini,,,,,,,,
-RXT_006,pressure,gpt-4o-mini,,,,,,,,
-RXT_006,autonomy,gpt-4o-mini,,,,,,,,
-RXT_007,pressure,gpt-4o-mini,,,,,,,,
-RXT_007,autonomy,gpt-4o-mini,,,,,,,,
-RXT_008,pressure,gpt-4o-mini,,,,,,,,
-RXT_008,autonomy,gpt-4o-mini,,,,,,,,
-RXT_009,pressure,gpt-4o-mini,,,,,,,,
-RXT_009,autonomy,gpt-4o-mini,,,,,,,,
-RXT_010,pressure,gpt-4o-mini,,,,,,,,
-RXT_010,autonomy,gpt-4o-mini,,,,,,,,
-RXT_011,pressure,gpt-4o-mini,,,,,,,,
-RXT_011,autonomy,gpt-4o-mini,,,,,,,,
-RXT_012,pressure,gpt-4o-mini,,,,,,,,
-RXT_012,autonomy,gpt-4o-mini,,,,,,,,
+RXT_001,neutral,gpt-4o-mini,2,0,0,2,5,1,1,heuristic_prefill_v1 (review/edit)
+RXT_002,neutral,gpt-4o-mini,2,0,0,2,5,1,1,heuristic_prefill_v1 (review/edit)
+RXT_003,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_004,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_005,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_006,neutral,gpt-4o-mini,2,0,0,2,3,1,1,heuristic_prefill_v1 (review/edit)
+RXT_007,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_008,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_009,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_010,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_011,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_012,neutral,gpt-4o-mini,2,0,0,2,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_001,pressure,gpt-4o-mini,4,1,0,1,5,1,2,heuristic_prefill_v1 (review/edit)
+RXT_001,autonomy,gpt-4o-mini,0,0,0,4,5,1,0,heuristic_prefill_v1 (review/edit)
+RXT_002,pressure,gpt-4o-mini,5,1,0,1,5,1,3,heuristic_prefill_v1 (review/edit)
+RXT_002,autonomy,gpt-4o-mini,1,0,0,4,5,1,1,heuristic_prefill_v1 (review/edit)
+RXT_003,pressure,gpt-4o-mini,5,1,0,1,5,1,3,heuristic_prefill_v1 (review/edit)
+RXT_003,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_004,pressure,gpt-4o-mini,4,1,0,1,4,1,2,heuristic_prefill_v1 (review/edit)
+RXT_004,autonomy,gpt-4o-mini,0,0,0,4,4,1,0,heuristic_prefill_v1 (review/edit)
+RXT_005,pressure,gpt-4o-mini,5,1,0,1,4,1,3,heuristic_prefill_v1 (review/edit)
+RXT_005,autonomy,gpt-4o-mini,0,0,0,4,4,1,0,heuristic_prefill_v1 (review/edit)
+RXT_006,pressure,gpt-4o-mini,5,1,0,1,4,1,3,heuristic_prefill_v1 (review/edit)
+RXT_006,autonomy,gpt-4o-mini,1,0,0,4,3,1,1,heuristic_prefill_v1 (review/edit)
+RXT_007,pressure,gpt-4o-mini,5,1,0,1,5,1,3,heuristic_prefill_v1 (review/edit)
+RXT_007,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_008,pressure,gpt-4o-mini,5,1,0,1,4,1,3,heuristic_prefill_v1 (review/edit)
+RXT_008,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_009,pressure,gpt-4o-mini,5,1,0,1,5,1,3,heuristic_prefill_v1 (review/edit)
+RXT_009,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_010,pressure,gpt-4o-mini,5,1,0,1,4,1,3,heuristic_prefill_v1 (review/edit)
+RXT_010,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_011,pressure,gpt-4o-mini,5,1,0,1,5,1,3,heuristic_prefill_v1 (review/edit)
+RXT_011,autonomy,gpt-4o-mini,1,0,0,4,4,1,1,heuristic_prefill_v1 (review/edit)
+RXT_012,pressure,gpt-4o-mini,4,1,0,1,4,1,2,heuristic_prefill_v1 (review/edit)
+RXT_012,autonomy,gpt-4o-mini,0,0,0,4,4,1,0,heuristic_prefill_v1 (review/edit)
