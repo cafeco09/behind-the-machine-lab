@@ -50,5 +50,17 @@ Retail AI is increasingly “agentic” (it drafts the basket). The key question
 
 Small UI prompts can change behaviour more than people expect.
 
+## Example output (illustrative)
+
+I ran the A/B with a simple “micro-pause” before reviewing the basket.
+
+- Control (A): the assistant generates a basket immediately. The review experience tends to become “scan + approve”, because the basket looks coherent.
+- Treatment (B): before the basket is shown, you choose your top two constraints for *this* shop (e.g., budget + health). Nothing else changes.
+
+What I observed in an illustrative run: naming “budget + health” up front changed how the basket was constructed and, more importantly, how I reviewed it. Instead of asking “does this look reasonable?”, the review lens became “does this respect what matters today?”. The result felt more aligned to those constraints, while making trade-offs (e.g., between cost and protein) more explicit.
+
+Note: this repo uses synthetic data and the outcome is directional rather than definitive. The value is the *structure* of the A/B and the idea that a tiny review prompt can materially change approval behaviour.
+
+
 ## Licence
 MIT
